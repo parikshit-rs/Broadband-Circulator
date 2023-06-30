@@ -1,0 +1,75 @@
+{
+    "parameters": [
+        {
+            "expr": "55",
+            "name": "Rsub",
+            "value": "55"
+        },
+        {
+            "expr": "0.035",
+            "name": "tcu",
+            "value": "0.035"
+        },
+        {
+            "expr": "5",
+            "name": "Rfe",
+            "value": "5"
+        },
+        {
+            "expr": "1.524",
+            "name": "tsub",
+            "value": "1.524"
+        },
+        {
+            "expr": "1.524",
+            "name": "tfe",
+            "value": "1.524"
+        },
+        {
+            "expr": "55",
+            "name": "li",
+            "value": "55"
+        },
+        {
+            "expr": "3.5",
+            "name": "wli",
+            "value": "3.5"
+        },
+        {
+            "expr": "30",
+            "name": "wc",
+            "value": "30"
+        },
+        {
+            "expr": "53",
+            "name": "st",
+            "value": "53"
+        },
+        {
+            "expr": "61",
+            "name": "en",
+            "value": "61"
+        },
+        {
+            "expr": "15.85/2",
+            "name": "Rmag",
+            "value": "7.925"
+        },
+        {
+            "expr": "1",
+            "name": "hmag",
+            "value": "1"
+        },
+        {
+            "expr": "3",
+            "name": "tmag",
+            "value": "3"
+        },
+        {
+            "expr": "6.18",
+            "name": "k",
+            "value": "6.18"
+        }
+    ],
+    "version": 1
+}

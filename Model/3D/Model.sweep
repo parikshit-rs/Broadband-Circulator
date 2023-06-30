@@ -1,0 +1,37 @@
+{
+    "parameter sweep": {
+        "options": {
+            "restore parameter values after run": "false",
+            "simulation type": "Frequency",
+            "skip existing combinations": "true",
+            "start active solver": "true"
+        },
+        "sequences": {
+            "Sequence 1": [
+                {
+                    "from": "0",
+                    "step width": "0.5",
+                    "to": "10",
+                    "type": "linear",
+                    "varname": "hmag"
+                },
+                {
+                    "index": 1
+                }
+            ],
+            "Sequence 2": [
+                {
+                    "from": "0",
+                    "step width": "0.1",
+                    "to": "0.5",
+                    "type": "linear",
+                    "varname": "hmag"
+                },
+                {
+                    "index": 2
+                }
+            ]
+        },
+        "version": 1
+    }
+}

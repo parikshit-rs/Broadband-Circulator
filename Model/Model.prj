@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2021.5 - Jun 28 2021 - ACIS 30.0.1 -
+[Author]
+Admin
+[Mesh Cells]
+53,830
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Frequency Domain
+[Last Solver Type Abb]
+f
+[Results]
+Frequency Domain: S-Parameter
+[Modeler Unique ID]
+5:circulator4-8.cst?a4b07e87a5e3b43d8a872c58b482d0be?35173:numberofparameters=14:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0?port=3>mode=1>zre=0>zim=0:::rfe?rmag?rsub?en?hmag?k?li?st?tcu?tfe?tmag?tsub?wc?wli
+[Comment]

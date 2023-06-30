@@ -1,0 +1,94 @@
+{
+    "lastModifiedBy": {
+        "build": 20210628,
+        "major": 2021,
+        "patch": 5
+    },
+    "reports": [
+        {
+            "items": [
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "2D/3D Results\\E-Field\\e-field (f=3.75) [1]",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\41215a4f40c043f8a6fa36a624209a37.png",
+                    "sortkey": 0,
+                    "treePath": "[\"2D/3D Results\\\\E-Field\\\\e-field (f=3.75) [1]\"]",
+                    "uid": "41215a4f40c043f8a6fa36a624209a37",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "2D/3D Results\\E-Field\\e-field (f=3.75) [1]",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\e77b8ef995c34d8f8ba27e81d8d0dfad.png",
+                    "sortkey": 1,
+                    "treePath": "[\"2D/3D Results\\\\E-Field\\\\e-field (f=3.75) [1]\"]",
+                    "uid": "e77b8ef995c34d8f8ba27e81d8d0dfad",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "2D/3D Results\\E-Field\\e-field (f=3.75) [1]",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\98130e2e1dde400b9a64c6244e62595f.png",
+                    "sortkey": 2,
+                    "treePath": "[\"2D/3D Results\\\\E-Field\\\\e-field (f=3.75) [1]\"]",
+                    "uid": "98130e2e1dde400b9a64c6244e62595f",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "1D Results\\S-Parameters\\S1,1, ...",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\05a3169d95cd4b32989a2a9bed830002.png",
+                    "sortkey": 3,
+                    "treePath": "[\"1D Results\\\\S-Parameters\\\\S1,1\",\"1D Results\\\\S-Parameters\\\\S2,1\",\"1D Results\\\\S-Parameters\\\\S3,1\"]",
+                    "uid": "05a3169d95cd4b32989a2a9bed830002",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "1D Results\\Reference Impedance\\ZRef 1(1), ...",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\e6aaac9ed96540b192f99fd7ebb3d5df.png",
+                    "sortkey": 4,
+                    "treePath": "[\"1D Results\\\\Reference Impedance\\\\ZRef 1(1)\",\"1D Results\\\\Reference Impedance\\\\ZRef 3(1)\",\"1D Results\\\\Reference Impedance\\\\ZRef 2(1)\"]",
+                    "uid": "e6aaac9ed96540b192f99fd7ebb3d5df",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "2D/3D Results\\E-Field\\e-field (f=3.75) [1]",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\3f16e2cfac714193b049c816518b1001.png",
+                    "sortkey": 5,
+                    "treePath": "[\"2D/3D Results\\\\E-Field\\\\e-field (f=3.75) [1]\"]",
+                    "uid": "3f16e2cfac714193b049c816518b1001",
+                    "vis3DFilepath": ""
+                },
+                {
+                    "description": "",
+                    "module": "ModelerViewer",
+                    "name": "2D/3D Results\\E-Field\\e-field (f=3.75) [1]",
+                    "options": "{\"addOverlay\":true}",
+                    "screenshotFilepath": "5c8f512e6af746e09acda7ba895b3b20\\1357e2e3795049f2815041af2b2d89cc.png",
+                    "sortkey": 6,
+                    "treePath": "[\"2D/3D Results\\\\E-Field\\\\e-field (f=3.75) [1]\"]",
+                    "uid": "1357e2e3795049f2815041af2b2d89cc",
+                    "vis3DFilepath": ""
+                }
+            ],
+            "name": "Report 1",
+            "pathName": "5c8f512e6af746e09acda7ba895b3b20",
+            "uid": "5c8f512e6af746e09acda7ba895b3b20"
+        }
+    ],
+    "version": 20200327
+}
