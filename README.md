@@ -1,5 +1,7 @@
 # Design of a Broadband Circulator
 
+> **Parikshit Ramchandra Sahu, BTech 3rd year, ECE, IIT Roorkee**
+
 ## Objectives
 - To design a broadband circulator in CST Studio Suite that works around 3.45 GHz.
 - To obtain the S-parameters of the designed circulator and match terminate the ports.
